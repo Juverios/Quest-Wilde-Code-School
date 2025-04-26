@@ -38,3 +38,6 @@
 
 #### FIN . Vous venez de crée une unité d'organisation dans laquel vous avez crée votre groupe d'utilisateur et rattacher un utilisateur à ce dernier !
 
+> Propriété de l'utilisateur Toto
+![](Ressources/Vérification_Appartenance.png)
+>
